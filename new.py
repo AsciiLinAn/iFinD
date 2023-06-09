@@ -1,5 +1,7 @@
 import pandas as pd
 
+# 试一试行不行
+
 # 读取股票数据库并进行预处理
 data = pd.read_excel('D:/0.Need to be the top/Y/task/517_1.0/stock.xlsx')
 
